@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="65540d10-1eb9-41dd-8107-e53b84727e72" name="mini-blog" url="http://108.170.62.213">
+        <fileTransfer host="108.170.62.213" port="21" rootFolder="/mini-blog-challenge.thesandboxserver.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
