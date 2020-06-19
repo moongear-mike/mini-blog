@@ -29,7 +29,7 @@ session_start();
 // Database definitions
 define('DB_NAME', 'teamgrey_mini-blog');
 define('DB_USER', 'teamgrey_mini-blog');
-define('DB_PASSWORD', 'u~NZZp6Gcc88');
+define('DB_PASSWORD', 'B,gk8-js,zFK');
 define('DB_HOST', 'localhost');
 define('DATE_FORMAT', 'l F j, Y @ g:ia');
 
